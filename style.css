@@ -230,4 +230,13 @@ color: #FF900E;
 .sponsore-container img{
   filter: grayscale(100%);
 }
+.footer {
+    margin-bottom: 130px;
+  text-align: center;
+    
+}
+.footer p{
+    padding: 40px 0;
+    
+}
 
