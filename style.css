@@ -215,3 +215,19 @@ color: #FF900E;
 .facts h1{
     margin-bottom: 24px;
 }
+.sponsore{
+    text-align: center;
+}
+.sponsore h1{
+   margin-bottom: 50px;
+}
+.sponsore-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 0;
+}
+.sponsore-container img{
+  filter: grayscale(100%);
+}
+
